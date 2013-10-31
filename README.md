@@ -1,1 +1,1 @@
-# Again staring from the scratch with strict TDD and DRY
+#TDD  and DRY
